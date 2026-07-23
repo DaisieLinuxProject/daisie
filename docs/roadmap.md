@@ -8,7 +8,7 @@ This document outlines the strategic milestones and technical progression planne
 
 *Goal: Establish a resilient base system transformation structure on Debian.*
 
-* [] **Base Transformation Pipeline:** Implement `bin/upgrade-to-daisie` as the entry execution point.
+* [ ] **Base Transformation Pipeline:** Implement `bin/upgrade-to-daisie` as the entry execution point.
 * [x] **Manifest-Driven Package Management:** Decouple package installation using `packages.list` and `lib/install-packages.sh`.
 * [x] **Session Integration:** Register custom GDM display manager session configuration (`daisie-gnome.desktop`).
 * [x] **Bootloader Theming:** Integrate custom GRUB visual assets and theme registration scripts.
