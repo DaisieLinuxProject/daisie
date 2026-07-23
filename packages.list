@@ -40,3 +40,13 @@ ca-certificates
 gnupg
 lsb-release
 wireshark
+libreoffice
+wireshark
+tshark
+tcpdump
+macchanger
+aircrack-ng
+john
+hashcat
+hydra
+sqlmap
