@@ -8,3 +8,4 @@ wget
 libglib2.0-dev
 gnome-shell-extensions
 gnome-shell-extension-manager
+micro
