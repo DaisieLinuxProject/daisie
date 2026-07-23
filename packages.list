@@ -1,1 +1,8 @@
-
+build-essential
+cmake
+g++
+git
+curl
+wget
+libglib2.0-dev
+gnome-shell-extensions
