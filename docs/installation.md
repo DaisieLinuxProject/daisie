@@ -19,8 +19,8 @@ The Daisie Linux installation process requires an existing, clean deployment of 
 Clone the repository to a local directory:
 
 ```bash
-git clone https://github.com/hypernova-developer/SyntaX.git daisie-linux
-cd daisie-linux
+git clone https://github.com/DaisieLinuxProject/daisie
+cd daisie
 
 ```
 
