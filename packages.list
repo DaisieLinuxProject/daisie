@@ -2,6 +2,7 @@ build-essential
 cmake
 gcc
 g++
+python3
 git
 curl
 wget
