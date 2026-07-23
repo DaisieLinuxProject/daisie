@@ -1,5 +1,6 @@
 build-essential
 cmake
+gcc
 g++
 git
 curl
